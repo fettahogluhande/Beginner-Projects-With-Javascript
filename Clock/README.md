@@ -1,14 +1,13 @@
-## Koşullarla Çalışmak
-- 1- prompt ile aldığın bilgiye göre aşağıdaki yapıyı kullanarak notun bilgisini #info'ya yazdır.
-  * AA 90-100
-  * BA 85-89
-  * BB 80-84
-  * CB 75-79
-  * CC 70-74
-  * DC 65-69
-  * DD 60-64
-  * FD 50-59
-  * FF  0-49
-- 2- Kullanıcının girdiği verinin istediğimiz aralıkta olup olmadığını kontrol et.
-- 3- FF bilgisine üzgün surat ikonu diğerlerine ise gülücük koy.
-- 4- FF class bilgisi text-danger , diğerleri ise text-primary olsun.
+# Kullanıcı İsmini Karşılama ve Saati Gösteren JavaScript Uygulaması
+
+Bu basit JavaScript uygulaması, kullanıcıdan bir isim alır ve bu ismi karşılama ekranında gösterir. Ayrıca, anlık olarak güncellenen saat ve tarih bilgisini de sağlar.
+
+## Kullanım
+
+1. Sayfa yüklendiğinde, kullanıcıdan bir isim istenir.
+2. Kullanıcı adı girildiğinde, ekranda "Merhaba, [Kullanıcı Adı]! Hoş geldin!" mesajı görüntülenir.
+3. Ayrıca, mevcut saat, dakika ve saniye bilgisi "gün adı saat dakika saniye" biçiminde gösterilir.
+
+## Ekran Görüntüsü
+
+![Ekran Alıntısı](https://github.com/fettahogluhande/Beginner-Projects-With-Javascript/assets/75665898/777071f0-13db-41b8-acb8-1cdf9d2d17a2)
