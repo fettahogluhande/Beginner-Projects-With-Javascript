@@ -1,13 +1,1 @@
-# JavaScript Sayacı Uygulaması
-
-Bu proje, temel bir JavaScript sayacı uygulamasını içerir. Kullanıcılar, "Artır(Increase)" ve "Azalt(Decrease)" düğmelerine tıklayarak sayacın değerini değiştirebilirler.
-
-## Başlangıç Durumu
-
-Sayacın başlangıç değeri 0'dır.
-
-## Nasıl Kullanılır
-
-1. Sayacı artırmak için "Artır(Increase)" düğmesine tıklayın.
-2. Sayacı azaltmak için "Azalt(Decrease)" düğmesine tıklayın.
-3. Sayacın güncel değeri ekranın üst kısmında görüntülenir.
+![Ekran Alıntısıı](https://github.com/fettahogluhande/Beginner-Projects-With-Javascript/assets/75665898/15512888-db04-445f-af0c-315c96b20b77)
